@@ -19,45 +19,45 @@ void main() {
   print("");
 
   if (arabic > 40) {
-    print("Arabic       :    $arabic     | " + "Pass");
+    print("Arabic        :    $arabic    | " + "Pass");
   } else {
-    print("Arabic       :    $arabic     | " + "Fail");
+    print("Arabic        :    $arabic    | " + "Fail");
   }
 
   if (islamiyat > 50) {
-    print("Islamiyat    :    $islamiyat     | " + "Pass");
+    print("Islamiyat     :    $islamiyat    | " + "Pass");
   } else {
-    print("Islamiyat    :    $islamiyat     | " + "Fail");
+    print("Islamiyat     :    $islamiyat    | " + "Fail");
   }
 
   if (urdu > 33) {
-    print("Urdu         :    $urdu     | " + "Pass");
+    print("Urdu          :    $urdu    | " + "Pass");
   } else {
-    print("Urdu         :    $urdu     | " + "Fail");
+    print("Urdu          :    $urdu    | " + "Fail");
   }
 
   if (mathematics > 25) {
-    print("Mathematics  :    $mathematics     | " + "Pass");
+    print("Mathematics   :    $mathematics    | " + "Pass");
   } else {
-    print("Mathematics  :    $mathematics     | " + "Fail");
+    print("Mathematics   :    $mathematics    | " + "Fail");
   }
 
   if (programming > 25) {
-    print("Programming  :    $programming     | " + "Pass");
+    print("Programming   :    $programming    | " + "Pass");
   } else {
-    print("Programming  :    $programming     | " + "Fail");
+    print("Programming   :    $programming    | " + "Fail");
   }
 
   if (science > 33) {
-    print("Science      :    $science     | " + "Pass");
+    print("Science       :    $science    | " + "Pass");
   } else {
-    print("Science      :    $science     | " + "Fail");
+    print("Science       :    $science    | " + "Fail");
   }
 
   if (english > 33) {
-    print("English      :    $english     | " + "Pass");
+    print("English       :    $english    | " + "Pass");
   } else {
-    print("English      :    $english     | " + "Fail");
+    print("English       :    $english    | " + "Fail");
   }
 
   var totalMarks = (700);
