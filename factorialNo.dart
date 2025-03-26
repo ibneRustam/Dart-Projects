@@ -1,9 +1,15 @@
 void main() {
-  for (int a = 3; a < 100; a += a) {
-    print("Factorila result $a");
 
 
+  var fact = 1;
+  var number = 6;
+
+
+  for (var i = fact; i < number; i++) {
+    fact *= i;
 
   }
+  print(fact);
 
+  
 }
